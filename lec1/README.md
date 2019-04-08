@@ -62,4 +62,11 @@ Hello world
 ```
 が表示されるはずです。
 
-お疲れ様でした。
+## 少し解説
+
+`public static void main(String[] args`は、C言語の`main`関数みたいなもの
+
+`System.out.println()`は標準出力(C言語の`printf`で変数の変換指定子(`%d`, `%s`など)を指定する必要がなく改行も
+自動でしてくれるやつみたいな)
+
+自動で改行しないものには`System.out.print()`は↑の改行しないやつ
