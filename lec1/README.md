@@ -69,4 +69,4 @@ Hello world
 `System.out.println()`は標準出力(C言語の`printf`で変数の変換指定子(`%d`, `%s`など)を指定する必要がなく改行も
 自動でしてくれるやつみたいな)
 
-自動で改行しないものには`System.out.print()`は↑の改行しないやつ
+自動で改行しないものには`System.out.print()`がある
