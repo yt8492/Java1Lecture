@@ -56,4 +56,3 @@ Human(String sex, String name) {
 引数として渡されたageとnameは、既にフィールドとして存在しているnameとageに名前が被るため、区別するためにフィールドのほうのageとnameにthisをつける必要がある。
 
 `taro.incrementAge()` のように、クラスで定義したメソッドはインスタンスから呼び出すことができる。
-`
