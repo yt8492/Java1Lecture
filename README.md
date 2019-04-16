@@ -8,3 +8,7 @@
 [Lecture3 クラスとインスタンス](https://github.com/yt8492/Java1Lecture/tree/master/lec3/README.md)
 
 [Lecture4 クラス変数とクラスメソッド](https://github.com/yt8492/Java1Lecture/blob/master/lec4/README.md)
+
+[Lecture5 nullについて](https://github.com/yt8492/Java1Lecture/blob/master/lec5/README.md)
+
+[Lecture6 条件分岐と繰り返し](https://github.com/yt8492/Java1Lecture/blob/master/lec6/README.md)
