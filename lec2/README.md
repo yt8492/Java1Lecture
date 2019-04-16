@@ -7,7 +7,7 @@ C言語には普通の変数とポインタ変数があるが、Javaにはポイ
 `int`, `float`, `double`, `boolean`, `char`, `byte`, `short`, `long` がある。
 
 ### 参照型
-プリミティブ型以外の型。`Object`クラスもしくはそれの子孫クラス。`Integer`, `Float`, `Double`, `Boolean`, `Char`, `Byte`, `Short`, `Long`, `String`など。
+プリミティブ型以外の型。`Object`クラスもしくはそれの子孫クラス。`Integer`, `Float`, `Double`, `Boolean`, `Character`, `Byte`, `Short`, `Long`, `String`など。
 
 ### プリミティブ型と参照型の違い
 プリミティブ型は値自身を、参照型は値のある場所を保持する。
