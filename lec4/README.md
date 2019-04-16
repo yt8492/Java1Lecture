@@ -83,7 +83,7 @@ Human.printSpeciesName(); // タコ
 
 ```java
 class Human {
-    final static String speciesName = "ヒト"; // finalを追加
+    static final String speciesName = "ヒト"; // finalを追加
     (以下略)
 ```
 
