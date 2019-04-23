@@ -51,7 +51,7 @@ parent.printFoo(); // Foo
 
 Child child = new Child();
 child.printName(); // override Child
-child.printParentName(); // 1, Parent
+child.printParent(); // 1, Parent
 child.printFoo(); // Foo
 ```
 
