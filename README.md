@@ -16,3 +16,5 @@
 [Lecture7 演算子編](https://github.com/yt8492/Java1Lecture/blob/master/lec7/README.md)
 
 [Lecture8 メソッドのオーバーロードについて](https://github.com/yt8492/Java1Lecture/blob/master/lec8/README.md)
+
+[Lecture9 継承について その1](https://github.com/yt8492/Java1Lecture/blob/master/lec9/README.md)
