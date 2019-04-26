@@ -57,7 +57,7 @@ bar.sayFoo(); // Foo Bar
 
 代表的なメソッドに `toString` と `equals` がある。
 
-[Lecture8](https://github.com/yt8492/Java1Lecture/blob/master/lec08/README.md)でも紹介したが、 `System.out.println` はObjectクラスの引数をとる場合がある。その場合内部で`toString``を呼び出している。
+[Lecture8](https://github.com/yt8492/Java1Lecture/blob/master/lec08/README.md)でも紹介したが、 `System.out.println` はObjectクラスの引数をとる場合がある。その場合内部で`toString`を呼び出している。
 
 ```java
 class MyClass {
