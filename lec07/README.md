@@ -1,5 +1,5 @@
 # Lecture7 演算子編
-四則演算は[Lecture2](https://github.com/yt8492/Java1Lecture/blob/master/lec2/README.md)で既に解説しているため省略。
+四則演算は[Lecture2](https://github.com/yt8492/Java1Lecture/blob/master/lec02/README.md)で既に解説しているため省略。
 
 ## 論理演算
 
