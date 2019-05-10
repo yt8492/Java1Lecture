@@ -30,7 +30,7 @@ class Fuga extends Hoge {
 
 ```java
 class Foo {
-void sayFoo() {
+    void sayFoo() {
         System.out.println("Foo"); // Foo
     }
 }
