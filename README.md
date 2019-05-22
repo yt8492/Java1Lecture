@@ -20,3 +20,5 @@
 [Lecture9 継承について その1](https://github.com/yt8492/Java1Lecture/blob/master/lec09/README.md)
 
 [Lecture10 継承について その2](https://github.com/yt8492/Java1Lecture/blob/master/lec10/README.md)
+
+[Lecture11 抽象クラス](https://github.com/yt8492/Java1Lecture/blob/master/lec11/README.md)
