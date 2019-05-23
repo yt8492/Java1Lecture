@@ -22,3 +22,5 @@
 [Lecture10 継承について その2](https://github.com/yt8492/Java1Lecture/blob/master/lec10/README.md)
 
 [Lecture11 抽象クラス](https://github.com/yt8492/Java1Lecture/blob/master/lec11/README.md)
+
+[Lecture12 インターフェース](https://github.com/yt8492/Java1Lecture/blob/master/lec12/README.md)
