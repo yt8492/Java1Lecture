@@ -8,7 +8,7 @@
 
 インターフェースの継承は `extends` ではなく `implements` でやる。抽象メソッドの定義は、抽象クラスと違い `abstract` をつける必要がない。
 
-```
+```java
 interface Foo {
     void doSomething(String foo);
 }
