@@ -24,3 +24,5 @@
 [Lecture11 抽象クラス](https://github.com/yt8492/Java1Lecture/blob/master/lec11/README.md)
 
 [Lecture12 インターフェース](https://github.com/yt8492/Java1Lecture/blob/master/lec12/README.md)
+
+[Lecture13 例外](https://github.com/yt8492/Java1Lecture/blob/master/lec13/README.md)
